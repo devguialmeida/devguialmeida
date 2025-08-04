@@ -1,23 +1,12 @@
 
 <h1> Oi! Eu sou Guilherme Almeida!<br><kbd>Aluno de Ciência da Computação - CEFET/RJ (4o Periodo)</kbd></h1>
-<div>
-  <img src="GHRM.jpg" height=290em align='right'>
-</div>
+<img src="GHRM.jpg" height=290em align='right'>
 
 ### ⚙️ Habilidades
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-<div>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-</div>
-
-<br/>
-
-<div>
-  <a href="https://github.com/devguialmeida">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devguialmeida&theme=transparent"/>
-  </a>
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devguialmeida&theme=transparent&title_color=F2F6D0&border_color=5603AD&text_color=44CCFF)](https://github.com/anuraghazra/github-readme-stats)
