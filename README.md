@@ -9,4 +9,4 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devguialmeida&theme=transparent&title_color=F2F6D0&border_color=5603AD&text_color=44CCFF)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devguialmeida&theme=transparent&title_color=F2F6D0&border_color=00FFFF&text_color=00FFFF)](https://github.com/anuraghazra/github-readme-stats)
