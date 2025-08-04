@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://github.com/devguialmeida">
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devguialmeida"/>
 </div>
 
-[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=devguialmeida)](https://github.com/anuraghazra/github-readme-stats)
+[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=devguialmeida&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
