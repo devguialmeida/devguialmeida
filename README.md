@@ -5,3 +5,10 @@
 - 📫 Contate-me no email (AINDA VOU COLOCAR)
 - 😄 Pronomes: ele/dele
 
+
+<div>
+  <a href="https://github.com/devguialmeida">
+  
+</div>
+
+[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=devguialmeida)](https://github.com/anuraghazra/github-readme-stats)
