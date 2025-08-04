@@ -1,9 +1,11 @@
 
 <h1> Oi! Eu sou Guilherme Almeida!<br><kbd>Aluno de Ciência da Computação - CEFET/RJ (4o Periodo)</kbd></h1>
 <div>
-  <img src="GHRM.jpg" height=280em align='right'>
+  <img src="GHRM.jpg" height=290em align='right'>
 </div>
+
 ### ⚙️ Habilidades
+
 <div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
@@ -16,6 +18,6 @@
 
 <div>
   <a href="https://github.com/devguialmeida">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=devguialmeida&theme=transparent"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devguialmeida&theme=transparent"/>
   </a>
 </div>
