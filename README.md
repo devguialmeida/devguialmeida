@@ -10,9 +10,3 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 <br>
 
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=devguialmeida&theme=transparent&title_color=F2F6D0&border_color=00FFFF&text_color=00FFFF">
-
-  </a>
-</div>
